@@ -5,7 +5,7 @@ import 'firebase/database';
 const config = {
   apiKey: "AIzaSyBh-2GD4AZvpYo0NZUv94KiUli6zO3tgqo",
   authDomain: "react-firebase-authentic-122d1.firebaseapp.com",
-  databaseURL: "react-firebase-authentic-122d1",
+  databaseURL: "https://react-firebase-authentic-122d1.firebaseio.com/",
   projectId: "react-firebase-authentic-122d1",
   storageBucket: '',
   messagingSenderId: "1067262297230",
